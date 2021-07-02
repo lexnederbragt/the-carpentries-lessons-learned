@@ -1,5 +1,8 @@
 # Software Carpentry: Lessons Learned
 
+**NOTE** this file contains the markdown version of 
+Wilson G. Software Carpentry: lessons learned. F1000Research 2016, 3:62 (https://doi.org/10.12688/f1000research.3-62.v2), CC-BY 3.0
+
 ## Abstract
 
 Since its start in 1998, Software Carpentry has evolved from a week-long
