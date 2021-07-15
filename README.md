@@ -5,7 +5,7 @@ What we have learned from delivering 3,100 workshops to over 80,000 researchers 
 Contributors:
 
 - Tim Dennis
-- Jonah Duckles
+- [Jonah Duckles](https://jduck.net)
 - [Kari Jordan](http://kariljordan.com/)
 - [Lex Nederbragt](https://lexnederbragt.com/)
 - Maneesha Sane
