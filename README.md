@@ -6,7 +6,7 @@ Contributors:
 
 - Tim Dennis
 - Jonah Duckles
-- Kari Jordan
+- [Kari Jordan](http://kariljordan.com/)
 - [Lex Nederbragt](https://lexnederbragt.com/)
 - Maneesha Sane
 - Tracy Teal
