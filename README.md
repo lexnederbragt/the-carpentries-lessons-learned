@@ -10,7 +10,7 @@ Contributors:
 - [Lex Nederbragt](https://lexnederbragt.com/)
 - Maneesha Sane
 - Tracy Teal
-- Aleksandra Nenadic
+- [Aleksandra Nenadic](https://github.com/anenadic)
 - [Greg Wilson](http://third-bit.com/)
 
 ## Notes
