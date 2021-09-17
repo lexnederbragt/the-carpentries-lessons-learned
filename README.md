@@ -21,7 +21,9 @@ Contributors:
 
 ## Writing and generating the output formats
 
-Writing happens in `paper.md`.
+Writing:
+* is done in `paper.md`
+* cite references as [@wilson2016Software] (using the CiteKey from `references.bib`)
 
 For the conversion:
 
