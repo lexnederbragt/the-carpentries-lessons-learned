@@ -9,7 +9,6 @@ Contributors:
 - [Kari Jordan](http://kariljordan.com/)
 - [Lex Nederbragt](https://lexnederbragt.com/)
 - Maneesha Sane
-- Tracy Teal
 - [Aleksandra Nenadic](https://github.com/anenadic)
 - [Greg Wilson](http://third-bit.com/)
 
