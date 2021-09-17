@@ -18,3 +18,24 @@ Contributors:
 - See also:
   - [Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)
   - [Building a local community of practice in scientific programming for life scientists](https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.2005561)
+
+## Generating the output formats
+
+Requirements: [pandoc](pandoc.org)
+
+Generating the PDF version:
+
+```
+pandoc paper.md -o paper.pdf \
+    --citeproc --csl plos-computational-biology.csl
+```
+
+Generating the docx (Microsoft Word) version:
+```
+pandoc paper.md -t docx -o paper.docx \
+	--bibliography references.bib \
+	--citeproc --csl plos-computational-biology.csl \
+	--reference-doc PLOS_template.docx
+```
+
+Both these can also be achieved using GNU `make`.
