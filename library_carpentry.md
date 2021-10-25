@@ -1,5 +1,7 @@
 # Library Carpentry History
 
+FIXME - Tim to turn this into prose version of document
+
 * In the beginning SSI and James Baker
     * Need to look up paper outlining this 
     * Why do so many librarians come to SWC
