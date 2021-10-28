@@ -27,7 +27,7 @@ Writing:
 
 For the conversion:
 
-* Requirements: [pandoc](pandoc.org)
+* Requirements: [pandoc](https://pandoc.org)
 * Optionally: GNU make
 
 For generating the PDF version:
