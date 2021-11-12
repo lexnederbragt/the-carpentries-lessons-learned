@@ -1,13 +1,5 @@
 # How did we cope with the pandemic?
 
-* Responsible: Aleks/Tim
-* ‘Pre-adapted’ to switching to online teaching
-* Does online levels the teaching field for people around the world - people may not need to travel but people without the Internet are excluded
-* The process leading to the Carpentries recommendations for teaching online
-* Long-term changes due to it
-    * Professional development / continuing education in the form of Bonus Modules for online teaching and setting foundation for other topics
-
--------------------------------------------------------------------------------
 Even before the pandemic-driven pivot to remote working, The Carpentries have been
 using online teaching methods to deliver Instructor Training to trainees from multiple
 countries and time zones. Participatory online meetings for Carpentry community discussions and
