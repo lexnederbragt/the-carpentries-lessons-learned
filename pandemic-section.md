@@ -1,6 +1,6 @@
-# How did we cope with the pandemic?
+# How did we cope with the COVID-19 pandemic?
 
-Even before the pandemic-driven pivot to remote working, The Carpentries have been
+Even before the COVID-19 pandemic-driven pivot to remote working, The Carpentries have been
 using online teaching methods to deliver Instructor Training to trainees from multiple
 countries and time zones. Participatory online meetings for Carpentry community discussions and
 teaching demonstrations were used pre-pandemic to involve community members and implement the [“lesson study”](https://en.wikipedia.org/wiki/Lesson_study) to improve our lessons and methods of teaching.
@@ -9,7 +9,7 @@ running remote meetings and events and were pre-adapted to switching to online t
 when the need arose. 
 
 ## Community's response
-When the COVID-19 pandemic stroke worldwide in February and March 2020, 
+When the COVID-19 pandemic stroke worldwide in early 2020, 
 the community was quick to regroup in response. 
 
 In March 2020, The Carpentries Core Team formed the [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) to develop a plan to pilot online 
