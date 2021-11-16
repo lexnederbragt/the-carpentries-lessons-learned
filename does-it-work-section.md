@@ -17,10 +17,16 @@ better instructor conversion and retention rates and increased collaboration wit
 - People are retaining and using skills we teach (use assessment data and testimonials to show)
 - Uptake of new tools and skills that we pick up by being part of the community not just what we teach at workshops (anecdotally)
 
+### Streamlined training provision
+- Streamlining the courses into official post-graduate and undergraduate curricula (e.g. in the UK - this is being taught
+  regularly as part of Doctoral Training Centres and offered by the emerging Research Software Engineering groups on a regular basis)
+- More projects/grants containing the training component being funded by government and private sectors 
+- Emergence of training coordinator roles
+
 ### Sharing and reusing the methodology and resources
 - Reusing the Carpentries resources (lessons, lesson templates, workshop templates, etc.)
 - Reusing pedagogical skills we teach in other course and teaching they do (anecdotally)
-- New training courses are being developed (metrics from the Incubator), and new skills/tools are being picked up
+- New training courses are being developed (how many, what state they are at - metrics from the Incubator), and new skills/tools are being picked up
 
 ### Working with others
 - Collaboration with other communities and institutions, feeding off each other and helping each other grow (international RSE community, the UK’s Software Sustainability Institute, CodeRefinery, Dutch eScience Centre, ... )
