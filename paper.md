@@ -75,7 +75,7 @@ This is an update of [@wilson2016Software].
 * Long-term changes due to it
     * Professional development / continuing education in the form of Bonus Modules for online teaching and setting foundation for other topics
 
-See the [draft of the section](/blob/main/pandemic-section.md).
+See the [draft of the section](pandemic-section.md).
 
 # Does it work?
 
@@ -86,7 +86,7 @@ See the [draft of the section](/blob/main/pandemic-section.md).
 * Becoming an internationally recognised brand
 * Collaboration with other communities and institutions, feeding off each other and helping each other grow (RSE community, the UK’s Software Sustainability Institute, CodeRefinery, etc. ) - Aleks
 
-See the [draft of the section](/blob/main/does-it-work-section.md).
+See the [draft of the section](does-it-work-section.md).
 
 # Where are we going
 
