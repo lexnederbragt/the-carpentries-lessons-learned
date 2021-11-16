@@ -66,7 +66,7 @@ This is an update of [@wilson2016Software].
 * Includes CoC, incident response and CoCc
 * Equity, diversity, inclusion
 
-# How did we cope with the Pandemic?
+# How did we cope with the COVID-19 pandemic?
 
 * Responsible: Aleks/Tim
 * ‘Pre-adapted’ to switching to online teaching
@@ -74,6 +74,8 @@ This is an update of [@wilson2016Software].
 * The process leading to the Carpentries recommendations for teaching online
 * Long-term changes due to it
     * Professional development / continuing education in the form of Bonus Modules for online teaching and setting foundation for other topics
+
+See the [draft of the section](/blob/main/pandemic-section.md).
 
 # Does it work?
 
@@ -83,6 +85,8 @@ This is an update of [@wilson2016Software].
 * Impact beyond the Carpentries (?)
 * Becoming an internationally recognised brand
 * Collaboration with other communities and institutions, feeding off each other and helping each other grow (RSE community, the UK’s Software Sustainability Institute, CodeRefinery, etc. ) - Aleks
+
+See the [draft of the section](/blob/main/does-it-work-section.md).
 
 # Where are we going
 
