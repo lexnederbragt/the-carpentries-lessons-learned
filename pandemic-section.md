@@ -73,11 +73,11 @@ distracting and easier to catch up with.
 
 ### New inclusivity and accessibility concerns
 
-We faced some new inclusivity and accessibility concerns as we aimed to be inclusive of learners from different
-time zones and with varying levels of technical equipment for video calls and quality of Internet connection.
-In many countries, learners were reliant on access to computer labs at their institutions, which was restricted
+We faced some new inclusivity and accessibility concerns as we aimed to include learners from different
+time zones and with varying technical equipment for video calls and Internet connection quality.
+In many countries, learners were reliant on computer labs at their institutions, which was restricted
 due to the COVID-19 pandemic. Many did not have access to personal laptops or PCs.
-Online workshops were great for some people, but also highly exclusive and inaccessible for others with 
+Online workshops were great for some people but also highly exclusive and inaccessible for others with 
 technical or hearing issues, caring or home-schooling duties.
 
 ### Video conferencing takes toll
