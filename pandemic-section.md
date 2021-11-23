@@ -37,10 +37,10 @@ environmental impacts.
 ### Things take longer online
 
 Things are likely to take longer in a virtual setting than face-to-face, so one needs to factor in extra
-time for troubleshooting technical problems, going though the materials and challenges. More breaks are
-needed as people tire more quickly due to an increased cognitive load of having to manage multiple windows
+time troubleshooting technical problems, going through the materials and challenges. More breaks are
+necessary as people tire more quickly due to an increased cognitive load of managing multiple windows
 while following the instructor. For these reasons, pre-workshop setup sessions to help people
-set up and download data ahead of workshops became even more important to maximise instructional time at workshops.
+set up and download data ahead of workshops became even more important to maximise instructional time.
 
 ### More event facilitation is needed
 
