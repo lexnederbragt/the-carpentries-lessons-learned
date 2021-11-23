@@ -10,23 +10,20 @@ when the need arose.
 When the COVID-19 pandemic stroke worldwide in early 2020, 
 the community was quick to regroup in response. 
 
-In March 2020, The Carpentries Core Team formed the [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) to develop a plan to pilot online 
-instruction of The Carpentries curricula. The Task Force focused on the creation of [key resources](https://carpentries.org/online-workshop-recommendations/) 
-to guide the wider community in the shift to online instruction and a collection of resources, strategies and experiences that have been [shared by the community](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html?highlight=online%20guides#resources-by-community).
+In March 2020, The Carpentries Core Team formed the [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) to develop a plan to pilot online instruction of The Carpentries curricula. The Task Force focused on the creation of [key resources](https://carpentries.org/online-workshop-recommendations/) 
+guiding the wider community's shift to online instruction and a collection of resources, strategies, and experiences that have been [shared by the community](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html?highlight=online%20guides#resources-by-community).
 
 By the end of April 2020, cloud instances on [RStudio Cloud](https://rstudio.cloud/) (for R-based workshops) and 
 [My Binder](https://mybinder.org/) (for Python-based workshops) were being [offered as a backup for learners with installation issues](https://carpentries.org/blog/2020/04/scaffolds/),
 [official recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). In addition, the Task Force published [a guide for organisers of online 
-workshops](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/) and ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/), containing 
-short lessons intended to provide continuing education opportunities for our instructors as they switch to teaching 
-online.
+workshops](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/) and ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/), providing continuing education opportunities for our instructors as they made the switch to teaching online.
 
-In May 2020, [a new series of themed discussions](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/) centred around running online workshops was launched by The Carpentries Core Team. The goal of these calls was to discuss ongoing work around online workshops — from changes to workshop registration to best practices in using technology to manage the shift to online-only workshops. Themed discussions also allowed time for direct communication between the community members on experiences, lessons learned, challenges and questions arising from 
+In May 2020, The Carpentries Core Team launched [a new series of themed discussions](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/) centered around running online workshops. The goal of these calls was to discuss ongoing work around online workshops — from changes to workshop registration to best practices in using technology to manage the shift to online-only workshops. Themed discussions also allowed time for direct communication between the community members on their experiences, lessons learned, challenges, and questions arising from 
 running online workshops.
 
 All these efforts enabled the community to 
 carry on with running workshops, teaching and learning, accessing software on the cloud via Web browsers where software 
-installations were problematic and offering audiences similar experiences to in-person workshops.
+installations were problematic and offered audiences similar experiences to in-person workshops.
 
 ## What we learned?
 
