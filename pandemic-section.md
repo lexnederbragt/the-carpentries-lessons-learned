@@ -44,11 +44,10 @@ set up and download data ahead of workshops became even more important to maximi
 
 ### More event facilitation is needed
 
-Online training needs extra facilitation, which is not needed in face-to-face events. An event facilitator
-helps make sure the virtual event is working well, participants are aware of which resources to use and
-what commands to type. Facilitators also manage participants to minimise background noise, help make effective
-use of non-verbal feedback in video-conferencing platforms, monitor and answer questions in the chat and bring
-anything from the chat to the attention of trainers/helpers, and manage breakout rooms.
+Online training needs extra facilitation that face-to-face events do not often require. An event facilitator
+helps make sure the virtual event is running smoothly, participants are aware of relevant resources to use and
+what commands to type. Facilitators also manage participants online presence to minimise background noise, help make effective
+use of non-verbal feedback in video-conferencing platforms, monitor and answer questions in the chat and foreground issues from the chat to the attention of trainers/helpers and manage breakout rooms.
 
 ### Cognitive load is higher on everyone
 
