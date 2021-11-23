@@ -2,10 +2,8 @@
 
 Even before the COVID-19 pandemic-driven pivot to remote working, The Carpentries have been
 using online teaching methods to deliver Instructor Training to trainees from multiple
-countries and time zones. Participatory online meetings for Carpentry community discussions and
-teaching demonstrations were used pre-pandemic to involve community members and implement the [“lesson study”](https://en.wikipedia.org/wiki/Lesson_study) to improve our lessons and methods of teaching.
-Hence, instructors and instructor trainers were already familiar with online platforms and video conferencing tools for
-running remote meetings and events and were pre-adapted to switching to online teaching
+countries and time zones. Instructors and instructor trainers used participatory online meetings for Carpentry community discussions and
+teaching demonstrations pre-pandemic to involve community members and implement the [“lesson study”](https://en.wikipedia.org/wiki/Lesson_study) to improve our lessons and methods of teaching. Hence, the Carpentries instructor community was already familiar with online platforms and video conferencing tools for running remote meetings and events and were familiar with online teaching
 when the need arose. 
 
 ## Community's response
