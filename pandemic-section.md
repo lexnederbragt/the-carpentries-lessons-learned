@@ -51,13 +51,13 @@ use of non-verbal feedback in video-conferencing platforms, monitor and answer q
 
 ### Cognitive load is higher on everyone
 
-It can be tiring and time consuming for the active instructor to monitor the chat, non-verbal feedback from
-participants and shared documents while they are presenting. Having an event facilitator frees up the instructor
+It can be tiring and time-consuming for the active instructor to monitor the chat, non-verbal feedback from
+participants, and shared documents while presenting. Having an event facilitator frees up the instructor
 to instruct and the helpers to focus on helping.
 
-Participants have watch what the instructor is doing in one window, type and replicate commands in another,
-follow chat and shared document for any shared code snippets while trying to hear what is being said over
-background noises and often low quality Internet connection.
+Participants have to watch what the instructor is doing in one window, type and replicate commands in another,
+monitor the chat conversation and shared document for any shared code snippets, all the while trying to follow what is being said over
+background noises and often low-quality Internet connection.
 
 ### Technical concerns are larger
 
