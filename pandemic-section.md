@@ -59,21 +59,16 @@ Participants have to watch what the instructor is doing in one window, type and 
 monitor the chat conversation and shared document for any shared code snippets, all the while trying to follow what is being said over
 background noises and often low-quality Internet connection.
 
-### Technical concerns are larger
+### Technical concerns are greater
 
-Variation in technical skills are more apparent with online courses and technical difficulties tend to be even larger.
-Initially, everyone had to familiarise themselves with different video conferencing tools "on the fly"
-and while the workshop was taking place, which placed additional load on instructors, helpers and participants.
-People were often not familiar with non-verbal reactions, which were used to indicate progress with exercises and
-quickly poll the audience. Frequent updates to video conferencing tools introduced further inconsistencies between
-different versions owned by participants. Poor Internet connections resulted in many participants not sharing their
-videos, which, coupled with the lack of non-verbal feedback, made it harder to know if people were following.
+Variation in technical skills is more apparent with online courses, and technical difficulties tend to be even more significant.
+Initially, everyone had to familiarise themselves with different video conferencing tools "on the fly" while the workshop took place, putting additional pressure on instructors, helpers, and participants.
+People were often unfamiliar with non-verbal reactions used to indicate progress with exercises and quickly poll the audience. Frequent updates to video conferencing tools introduced further inconsistencies between
+different versions installed by participants. Slow or intermittent internet connections led learners to go off video during workshops. This lack of visual feedback from learners' video and non-verbal feedback made it hard for instructors to discern if people were following along.
 
-There is a number of video conferencing tools in use (e.g. Blackboard Collaborate, Microsoft Teams, Zoom, etc.),
-each with its own intricacies; the choice is often mandated by the institution hosting the workshop. The use of
-chat is crucial to keep everyone engaged and for answering questions in the background by helpers, and often
+Numerous video conferencing tools are being used in Carpentries workshops (e.g., Blackboard Collaborate, Microsoft Teams, Zoom, etc.), further complicating workshop operation. Each of them brings its intricacies. The hosting institution often mandated the video conferencing tool used in the workshop. The use of chat is crucial to keep everyone engaged and for answering questions in the background by helpers, and often
 superseded the use of shared notes documents (as this was one extra window to manage in often limited screen estate).
-The use of integrated chats was preferred to standalone chat tools such as Slack, and was perceived as less
+Instructors and participants preferred integrated chats to standalone chat tools such as Slack. They were perceived as less
 distracting and easier to catch up with.
 
 ### New inclusivity and accessibility concerns
