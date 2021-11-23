@@ -27,13 +27,12 @@ installations were problematic and offered audiences similar experiences to in-p
 
 ## What we learned?
 
-Delivering Carpentry workshops online afforded us with many opportunities, but also came with a price.
-People without a stable Internet connection or a personal computer were largely excluded. Troubleshooting installation
-and setup issues was harder. On the other hand, people were quick to adapt to new ways of working and
-learn new technologies. Online workshops can be as effective as in-person training with
-careful planning and preparation. We were able to draw from a much larger pool of remote instructors and helpers,
-and reach more learners. Less time was spent on room bookings, catering and travel - reducing some
-impacts on the environment.
+Delivering Carpentry workshops online afforded us many opportunities but also came with a price.
+The community's switch to online instruction largely excluded people without a stable Internet connection or a personal computer. Troubleshooting installation and setup issues proved more difficult. On the other hand, people quickly adapted to new ways of working and were facile at
+adopting new technologies. Online workshops can be as effective as in-person training with
+careful planning and preparation. We could draw from a much larger pool of remote instructors and helpers
+and reach more learners. Less time was spent on room bookings, catering, and travel, reducing some
+environmental impacts.
 
 ### Things take longer online
 
