@@ -92,13 +92,13 @@ everyone to still carry out some of their (work or personal) daily tasks. Agenda
 workshops (and events in general) must have sufficient breaks (e.g. after 45 - 60 minutes of teaching) 
 for them to be effective and less tiring for those who are attending.
 
-### Changes to how we deliver training in the future
-
-Changes due to pandemic involved adapting to the new ways of working and the new hybrid approach to teaching will persist beyond the foreseeable future. 
-The ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/) (which covered the recommendations for delivering 
-teaching online) provided the foundation for professional development and continuing education of our community and set foundation for covering other topics.
-
 ### The community is very patient, resilient and resourceful
 
 Despite all the obstacles, the instructor and learner communities [reported a largely positive experiences with online workshops](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/). They came together to share advice and
 improve the learner and instructor experience, and stepped up to point people to various Carpentries [resources and recommendations](https://carpentries.org/online-workshop-recommendations/) in response to questions posted at various communications channels and social media. We all acquired new skills from this experience, and the usefulness of skills learned and shared transcends the use in online workshops.
+
+### Changes to how we deliver training in the future
+
+The knowledge and experience on online teaching delivery that was destilled into the ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/) proved a very efficient and effective way of upskilling a large number of our instructors in a short period of time. At the same time, it provided the foundation for professional development and continuing education of our community and set foundation and the processes for covering other topics in a similar manner as the new hybrid approach to teaching will persist beyond the foreseeable future. 
+
+
