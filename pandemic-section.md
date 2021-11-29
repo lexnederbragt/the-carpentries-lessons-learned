@@ -10,7 +10,7 @@ when the need arose.
 When the COVID-19 pandemic stroke worldwide in early 2020, 
 the community was quick to regroup in response. 
 
-In March 2020, The Carpentries Core Team formed the [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) to develop a plan to pilot online instruction of The Carpentries curricula. The Task Force focused on the creation of [key resources](https://carpentries.org/online-workshop-recommendations/) 
+In March 2020, The Carpentries Core Team formed the [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/blob/main/2020/COVID-19/COVID-19-charter.md) to develop a plan to pilot online instruction of The Carpentries curricula. The Task Force focused on the creation of the [key resources and recommendations](https://carpentries.org/online-workshop-recommendations/) 
 guiding the wider community's shift to online instruction and a collection of resources, strategies, and experiences that have been [shared by the community](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html?highlight=online%20guides#resources-by-community).
 
 By the end of April 2020, cloud instances on [RStudio Cloud](https://rstudio.cloud/) (for R-based workshops) and 
@@ -92,8 +92,7 @@ everyone to still carry out some of their (work or personal) daily tasks. Agenda
 workshops (and events in general) must have sufficient breaks (e.g. after 45 - 60 minutes of teaching) 
 for them to be effective and less tiring for those who are attending.
 
-### Key message
+### The community is very patient, resilient and resourceful
 
-I quite like this quote from: https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/ and wonder if we could 
-incorporate it somehow:
-`“Our community is very patient, resilient and very resourceful.”`
+Despite all the obstacles, the instructor and learner communities [reported a largely positive experiences with online workshops](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/). They came together to share advice and
+improve the learner and instructor experience, and stepped up to point people to various Carpentries [resources and recommendations](https://carpentries.org/online-workshop-recommendations/) in response to questions posted at various communications channels and social media. We all acquired new skills from this experience, and the usefulness of skills learned and shared transcends the use in online workshops.
