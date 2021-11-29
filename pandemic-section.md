@@ -96,7 +96,7 @@ for them to be effective and less tiring for those who are attending.
 
 The knowledge and experience on online teaching delivery that was destilled into the ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/) proved a very efficient and effective way of upskilling a large number of our instructors in a short period of time. At the same time, it provided the foundation for professional development and continuing education of our community and set foundation and the processes for covering other topics in a similar manner in the future. 
 
-### The community is patient, resilient and resourceful
+### Community is patient, resilient and resourceful
 
 Despite all the obstacles, the instructor and learner communities [reported a largely positive experiences with online workshops](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/). They came together to share advice and
 improve the learner and instructor experience, and stepped up to point people to various Carpentries [resources and recommendations](https://carpentries.org/online-workshop-recommendations/) in response to questions posted at various communications channels and social media. The Core Team collated and published the ["Bonus Modules for Carpentries Instructors"](https://carpentries.github.io/instructor-training-bonus-modules/) based on the collective experience. We all acquired new skills from this process, and the their usefulness transcends the use in online workshops.
